@@ -1,0 +1,3154 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.8.0",
+  "name": "input",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 9447059903767121094,
+    "filename": "input.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 334.21,
+            "t": 348.78200390624994,
+            "r": 384.943,
+            "b": 321.07000390624995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "1 فصل",
+      "text": "1 فصل",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 293.845,
+            "t": 307.55200390625,
+            "r": 384.951,
+            "b": 275.22100390624996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "دنیای زنده",
+      "text": "دنیای زنده",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.439,
+            "t": 256.18000390624996,
+            "r": 396.852,
+            "b": 220.88100390624993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            223
+          ]
+        }
+      ],
+      "orig": "\b این \b جمعیت \b. گذارند \b می \b نمایش \b به \b را \b ها \b مهاجرت \b انگیزترین \b شگفت \b از \b یکی \b مونارک \b های \b پروانه پیماید. \b می \b بالعکس \b و \b کانادا \b جنوب \b تا \b مکزیک \b از \b را \b کیلومتر \b هزاران \b سال \b هر \b ها \b پروانه",
+      "text": "\b این \b جمعیت \b. گذارند \b می \b نمایش \b به \b را \b ها \b مهاجرت \b انگیزترین \b شگفت \b از \b یکی \b مونارک \b های \b پروانه پیماید. \b می \b بالعکس \b و \b کانادا \b جنوب \b تا \b مکزیک \b از \b را \b کیلومتر \b هزاران \b سال \b هر \b ها \b پروانه"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.439,
+            "t": 216.19300390624994,
+            "r": 396.893,
+            "b": 140.90700390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            455
+          ]
+        }
+      ],
+      "orig": "\b شناسان \b زیست \b روند؟ \b نمی \b اشتباه \b به \b را \b راه \b و \b کنند \b می \b پیدا \b را \b خود \b مسیر \b مونارک \b های \b پروانه \b چگونه \b های \b یاخته \b مونارک، \b پروانه \b بدن \b در \b آنان \b. اند \b کرده \b حل \b را \b معما \b این \b تازگی \b به \b پژوهش، \b ها \b سال \b از \b پس \b مقصد \b جهت \b و \b آسمان \b در \b خورشید \b جایگاه \b آنها، \b از \b استفاده \b با \b ها \b پروانه \b که \b اند \b یافته \b) هایی \b (نورون \b عصبی کنند. \b می \b پرواز \b آن \b سوی \b به \b و \b دهند \b می \b تشخیص \b را",
+      "text": "\b شناسان \b زیست \b روند؟ \b نمی \b اشتباه \b به \b را \b راه \b و \b کنند \b می \b پیدا \b را \b خود \b مسیر \b مونارک \b های \b پروانه \b چگونه \b های \b یاخته \b مونارک، \b پروانه \b بدن \b در \b آنان \b. اند \b کرده \b حل \b را \b معما \b این \b تازگی \b به \b پژوهش، \b ها \b سال \b از \b پس \b مقصد \b جهت \b و \b آسمان \b در \b خورشید \b جایگاه \b آنها، \b از \b استفاده \b با \b ها \b پروانه \b که \b اند \b یافته \b) هایی \b (نورون \b عصبی کنند. \b می \b پرواز \b آن \b سوی \b به \b و \b دهند \b می \b تشخیص \b را"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.452,
+            "t": 136.21900390625,
+            "r": 396.866,
+            "b": 60.93300390624995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            418
+          ]
+        }
+      ],
+      "orig": "\b برای \b تاش \b بر \b عاوه \b شناسان \b زیست \b بیابد؟ \b ر ا \b حیات \b رازهای \b همۀ \b است \b قادر \b شناسی \b زیست \b علم \b آیا برند. \b کار \b به \b انسان \b زندگی \b بهبود \b در \b را \b خود \b های \b یافته \b کنند \b می \b سعی \b آفرینش، \b رازهای \b به \b بردن \b پی \b پاسخ \b به \b فصل \b این \b در \b. کند \b می \b متمایز \b زنده \b غیر \b موجودات \b از \b ر ا \b آنها \b که \b دارند \b هایی \b ویژگی \b چه \b زنده \b موجودات پردازیم. \b می \b هایی \b پرسش \b چنین",
+      "text": "\b برای \b تاش \b بر \b عاوه \b شناسان \b زیست \b بیابد؟ \b ر ا \b حیات \b رازهای \b همۀ \b است \b قادر \b شناسی \b زیست \b علم \b آیا برند. \b کار \b به \b انسان \b زندگی \b بهبود \b در \b را \b خود \b های \b یافته \b کنند \b می \b سعی \b آفرینش، \b رازهای \b به \b بردن \b پی \b پاسخ \b به \b فصل \b این \b در \b. کند \b می \b متمایز \b زنده \b غیر \b موجودات \b از \b ر ا \b آنها \b که \b دارند \b هایی \b ویژگی \b چه \b زنده \b موجودات پردازیم. \b می \b هایی \b پرسش \b چنین"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.599,
+            "t": 44.2620039062499,
+            "r": 40.942,
+            "b": 29.523003906249983,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 149.704,
+            "t": 697.0590039062499,
+            "r": 368.524,
+            "b": 673.96600390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "زیست شناسی چیست؟ 1 گفتار",
+      "text": "زیست شناسی چیست؟ 1 گفتار",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 56.477,
+            "t": 648.92100390625,
+            "r": 362.846,
+            "b": 633.61400390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "کنند؟ \b تولید \b بیشتری \b غذایی \b مواد \b تر، \b کوتاه \b مدتی \b در \b که \b داد \b پرورش \b گیاهانی \b توان \b می \b چگونه \b",
+      "text": "کنند؟ \b تولید \b بیشتری \b غذایی \b مواد \b تر، \b کوتاه \b مدتی \b در \b که \b داد \b پرورش \b گیاهانی \b توان \b می \b چگونه \b",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 135.134,
+            "t": 628.92100390625,
+            "r": 362.825,
+            "b": 613.61400390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "\b شود؟ \b حفظ \b وحش \b حیات \b باید \b چرا \b شود؟ \b حفظ \b زیستی \b تنوع \b باید \b چرا \b",
+      "text": "\b شود؟ \b حفظ \b وحش \b حیات \b باید \b چرا \b شود؟ \b حفظ \b زیستی \b تنوع \b باید \b چرا \b",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.265,
+            "t": 608.92100390625,
+            "r": 382.663,
+            "b": 573.61400390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "\b را \b سرطانی \b های \b یاخته \b توان \b می \b چگونه \b شوند؟ \b می \b سرطانی \b انسان \b بدن \b های \b یاخته \b از \b بعضی \b چرا \b کرد؟ \b نابود \b و \b شناسایی \b شدن \b سرطانی \b اولیۀ \b مراحل \b در",
+      "text": "\b را \b سرطانی \b های \b یاخته \b توان \b می \b چگونه \b شوند؟ \b می \b سرطانی \b انسان \b بدن \b های \b یاخته \b از \b بعضی \b چرا \b کرد؟ \b نابود \b و \b شناسایی \b شدن \b سرطانی \b اولیۀ \b مراحل \b در",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.249,
+            "t": 568.92700390625,
+            "r": 42.504,
+            "b": 553.6210039062499,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\b",
+      "text": "\b"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.504,
+            "t": 568.92700390625,
+            "r": 382.684,
+            "b": 533.61400390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "مواد \b مانند \b فسیلی، \b های \b سوخت \b جانشین \b را \b الکل \b مانند \b زیستی \b های \b سوخت \b توان \b می \b چگونه \b \b کرد؟ \b نفتی",
+      "text": "مواد \b مانند \b فسیلی، \b های \b سوخت \b جانشین \b را \b الکل \b مانند \b زیستی \b های \b سوخت \b توان \b می \b چگونه \b \b کرد؟ \b نفتی",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 118.138,
+            "t": 528.92700390625,
+            "r": 362.825,
+            "b": 513.6210039062499,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "\b کرد؟ \b درمان \b را \b آنها \b یا \b و \b پیشگیری، \b ارثی، \b های \b بیماری \b از \b توان \b می \b چگونه \b",
+      "text": "\b کرد؟ \b درمان \b را \b آنها \b یا \b و \b پیشگیری، \b ارثی، \b های \b بیماری \b از \b توان \b می \b چگونه \b",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.265,
+            "t": 508.92100390624995,
+            "r": 382.693,
+            "b": 433.63400390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            455
+          ]
+        }
+      ],
+      "orig": "\b کنند \b می \b تاش \b شناسان \b زیست \b که \b است \b هایی \b پرسش \b انبوه \b میان \b از \b پرسش \b چند \b فقط \b اینها \b زندگی \b مشکات \b و \b مسائل \b حل \b به \b آفرینش، \b رازهای \b به \b بردن \b پی \b بر \b عاوه \b تا \b بیابند \b را \b آنها \b های \b پاسخ \b از \b ای \b شاخه \b شناسی، \b زیست \b. اند \b رسیده \b هم \b هایی \b موفقیت \b به \b راه \b این \b در \b و \b کنند \b کمک \b نیز \b امروزی \b انسان پردازد. \b می \b زیستی \b فرایندهای \b و \b جانداران \b علمی \b بررسی \b به \b که \b است \b تجربی \b علوم",
+      "text": "\b کنند \b می \b تاش \b شناسان \b زیست \b که \b است \b هایی \b پرسش \b انبوه \b میان \b از \b پرسش \b چند \b فقط \b اینها \b زندگی \b مشکات \b و \b مسائل \b حل \b به \b آفرینش، \b رازهای \b به \b بردن \b پی \b بر \b عاوه \b تا \b بیابند \b را \b آنها \b های \b پاسخ \b از \b ای \b شاخه \b شناسی، \b زیست \b. اند \b رسیده \b هم \b هایی \b موفقیت \b به \b راه \b این \b در \b و \b کنند \b کمک \b نیز \b امروزی \b انسان پردازد. \b می \b زیستی \b فرایندهای \b و \b جانداران \b علمی \b بررسی \b به \b که \b است \b تجربی \b علوم"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.439,
+            "t": 404.38500390624995,
+            "r": 420.667,
+            "b": 369.08500390624994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "\b تعیین \b (برای \b کنید \b انتخاب \b را \b شناسی \b زیست \b به \b مربوط \b خبرهای \b. کنید \b تهیه \b معمولی \b خبری \b روزنامۀ \b یک \b.) بخواهید \b کمک \b خود \b معلم \b از \b شناسی \b زیست \b به \b مربوط \b خبرهای",
+      "text": "\b تعیین \b (برای \b کنید \b انتخاب \b را \b شناسی \b زیست \b به \b مربوط \b خبرهای \b. کنید \b تهیه \b معمولی \b خبری \b روزنامۀ \b یک \b.) بخواهید \b کمک \b خود \b معلم \b از \b شناسی \b زیست \b به \b مربوط \b خبرهای"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 448.701,
+            "t": 405.13300390624994,
+            "r": 492.332,
+            "b": 386.65800390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "1 الیت فع",
+      "text": "1 الیت فع",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.452,
+            "t": 364.39800390625,
+            "r": 382.664,
+            "b": 329.09800390624997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "\b این \b از \b است؟ \b مربوط \b شناسی \b زیست \b به \b خبرها \b از \b درصد \b چند \b اید، \b کرده \b انتخاب \b که \b ای \b روزنامه \b در \b هستند؟ \b بد \b خبر \b چند \b و \b خوب \b خبر \b چند \b خبرها،",
+      "text": "\b این \b از \b است؟ \b مربوط \b شناسی \b زیست \b به \b خبرها \b از \b درصد \b چند \b اید، \b کرده \b انتخاب \b که \b ای \b روزنامه \b در \b هستند؟ \b بد \b خبر \b چند \b و \b خوب \b خبر \b چند \b خبرها،"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.425,
+            "t": 324.41100390624996,
+            "r": 382.637,
+            "b": 289.11100390624995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "\b خبرهای \b درصد \b و \b استفاده \b خاصی \b زمانی \b بازۀ \b در \b خبری \b های \b وبگاه \b از \b روزنامه \b جای \b به \b توانید \b می کنید. \b پیدا \b را \b آن \b زیستی",
+      "text": "\b خبرهای \b درصد \b و \b استفاده \b خاصی \b زمانی \b بازۀ \b در \b خبری \b های \b وبگاه \b از \b روزنامه \b جای \b به \b توانید \b می کنید. \b پیدا \b را \b آن \b زیستی"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 262.055,
+            "t": 249.83100390624998,
+            "r": 382.694,
+            "b": 233.6660039062499,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "محدودۀ علم زیست شناسی",
+      "text": "محدودۀ علم زیست شناسی",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.265,
+            "t": 223.81200390624997,
+            "r": 382.747,
+            "b": 108.53800390624997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            733
+          ]
+        }
+      ],
+      "orig": "\b مرگ \b به \b پیش \b سال \b صد \b حدود \b که \b فشارخون \b افزایش \b و \b قند \b بیماری \b مانند \b ها \b بیماری \b از \b بسیاری \b امروزه \b. نیستند \b آور \b مرگ \b دیگر \b جدید، \b داروهای \b و \b درمانی \b های \b روش \b علت \b به \b و \b اند \b مهارشده \b شدند، \b می \b منجر \b که \b بگیرد \b شکل \b ما \b ذهن \b در \b تصور \b این \b شناسی، \b زیست \b علم \b آثار \b و \b ها \b پیشرفت \b مشاهدۀ \b با \b است \b ممکن \b همۀ \b و \b دهد \b پاسخ \b انسان \b های \b پرسش \b همۀ \b به \b تواند \b می \b که \b است \b گسترده \b و \b توانا \b ای \b اندازه \b به \b علم \b این \b هایی \b محدودیت \b تجربی، \b علم \b طورکلی \b به \b. نیست \b طور \b این \b که \b درحالی \b کند؛ \b حل \b را \b ما \b زندگی \b مشکات است. \b ناتوان \b بشری \b مسائل \b برخی \b حل \b از \b و \b دهد \b پاسخ \b ما \b های \b پرسش \b همۀ \b به \b تواند \b نمی \b و \b دارد",
+      "text": "\b مرگ \b به \b پیش \b سال \b صد \b حدود \b که \b فشارخون \b افزایش \b و \b قند \b بیماری \b مانند \b ها \b بیماری \b از \b بسیاری \b امروزه \b. نیستند \b آور \b مرگ \b دیگر \b جدید، \b داروهای \b و \b درمانی \b های \b روش \b علت \b به \b و \b اند \b مهارشده \b شدند، \b می \b منجر \b که \b بگیرد \b شکل \b ما \b ذهن \b در \b تصور \b این \b شناسی، \b زیست \b علم \b آثار \b و \b ها \b پیشرفت \b مشاهدۀ \b با \b است \b ممکن \b همۀ \b و \b دهد \b پاسخ \b انسان \b های \b پرسش \b همۀ \b به \b تواند \b می \b که \b است \b گسترده \b و \b توانا \b ای \b اندازه \b به \b علم \b این \b هایی \b محدودیت \b تجربی، \b علم \b طورکلی \b به \b. نیست \b طور \b این \b که \b درحالی \b کند؛ \b حل \b را \b ما \b زندگی \b مشکات است. \b ناتوان \b بشری \b مسائل \b برخی \b حل \b از \b و \b دهد \b پاسخ \b ما \b های \b پرسش \b همۀ \b به \b تواند \b نمی \b و \b دارد"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 192.208,
+            "t": 132.44400390624992,
+            "r": 192.208,
+            "b": 117.13800390624999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ّ",
+      "text": "ّ"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.265,
+            "t": 103.85100390624996,
+            "r": 382.666,
+            "b": 68.55100390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            225
+          ]
+        }
+      ],
+      "orig": "\b و \b طبیعی \b های \b پدیده \b های \b علت \b وجوی \b جست \b در \b فقط \b تجربی \b علوم \b پژوهشگران \b و \b دانشمندان \b یا \b و \b ساختارها \b فقط \b شناسی، \b زیست \b در \b بنابراین، \b است؛ \b تجربی \b علوم \b اساس \b مشاهده، \b. اند \b مشاهده \b قابل",
+      "text": "\b و \b طبیعی \b های \b پدیده \b های \b علت \b وجوی \b جست \b در \b فقط \b تجربی \b علوم \b پژوهشگران \b و \b دانشمندان \b یا \b و \b ساختارها \b فقط \b شناسی، \b زیست \b در \b بنابراین، \b است؛ \b تجربی \b علوم \b اساس \b مشاهده، \b. اند \b مشاهده \b قابل"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 273.896,
+            "t": 79.40200390625,
+            "r": 273.896,
+            "b": 64.09600390624996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ِ",
+      "text": "ِ"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 483.708,
+            "t": 413.21300390625,
+            "r": 483.708,
+            "b": 394.73800390624996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ّ",
+      "text": "ّ"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 524.575,
+            "t": 44.2620039062499,
+            "r": 529.918,
+            "b": 29.523003906249983,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 118.892,
+            "t": 402.03600390624996,
+            "r": 167.253,
+            "b": 387.60200390624993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "بیشتر بدانید",
+      "text": "بیشتر بدانید",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 76.768,
+            "t": 381.01600390625,
+            "r": 167.26,
+            "b": 367.16000390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "زیست شناسی مصنوعی",
+      "text": "زیست شناسی مصنوعی",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 141.472,
+            "t": 238.22900390625,
+            "r": 141.472,
+            "b": 224.62300390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ً",
+      "text": "ً"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.7,
+            "t": 366.01600390625,
+            "r": 167.32,
+            "b": 172.41100390625002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            592
+          ]
+        }
+      ],
+      "orig": "\b های \b موضوع \b مصنوعی \b شناسی \b زیست \b فـنـاوری، \b زیست \b مـاننـد \b مخـتلــفی، \b شناسی \b زیست \b مولکولی، \b شناسی \b زیست \b مهندسی \b و \b ر ایانه \b مهندسی \b ها، \b سامانه \b. کند \b مـی \b مـرتبط \b هـم \b بـه \b ر ا \b ژنتیک \b کـوشند \b مـی \b عـلم \b ایـن \b متخصصان \b که \b کنند \b اجـر ا \b و \b طراحی \b هـایی \b سامانه \b طراحی \b. شوند \b نمی \b یافت \b طبیعی \b طور \b به \b کاربرد \b و \b بهینه \b کارایی \b با \b هایی \b آنزیم \b تولید \b و \b کننده، \b پاک \b مواد \b تولید \b برای \b مثا \b آنها \b. است \b رشته \b این \b کاربردهای \b از \b نمونه \b یک \b شناسی \b زیست \b در \b زیستی \b اخاق \b رعایت \b. دارد \b فراوان \b اهمیت \b مصنوعی،",
+      "text": "\b های \b موضوع \b مصنوعی \b شناسی \b زیست \b فـنـاوری، \b زیست \b مـاننـد \b مخـتلــفی، \b شناسی \b زیست \b مولکولی، \b شناسی \b زیست \b مهندسی \b و \b ر ایانه \b مهندسی \b ها، \b سامانه \b. کند \b مـی \b مـرتبط \b هـم \b بـه \b ر ا \b ژنتیک \b کـوشند \b مـی \b عـلم \b ایـن \b متخصصان \b که \b کنند \b اجـر ا \b و \b طراحی \b هـایی \b سامانه \b طراحی \b. شوند \b نمی \b یافت \b طبیعی \b طور \b به \b کاربرد \b و \b بهینه \b کارایی \b با \b هایی \b آنزیم \b تولید \b و \b کننده، \b پاک \b مواد \b تولید \b برای \b مثا \b آنها \b. است \b رشته \b این \b کاربردهای \b از \b نمونه \b یک \b شناسی \b زیست \b در \b زیستی \b اخاق \b رعایت \b. دارد \b فراوان \b اهمیت \b مصنوعی،"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 182.025,
+            "t": 705.61900390625,
+            "r": 524.439,
+            "b": 650.32600390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            273
+          ]
+        }
+      ],
+      "orig": "\b. اند \b گیری \b اندازه \b و \b مشاهده \b قابل \b مستقیم \b غیر \b یا \b مستقیم \b طور \b به \b ما \b برای \b که \b کنیم \b می \b بررسی \b را \b فرایندهایی \b ادبی \b و \b هنری \b های \b ارزش \b بدی، \b و \b خوبی \b زیبایی، \b و \b زشتی \b دربارۀ \b توانند \b نمی \b تجربی \b علوم \b پژوهشگران \b. بدهند \b نظر",
+      "text": "\b. اند \b گیری \b اندازه \b و \b مشاهده \b قابل \b مستقیم \b غیر \b یا \b مستقیم \b طور \b به \b ما \b برای \b که \b کنیم \b می \b بررسی \b را \b فرایندهایی \b ادبی \b و \b هنری \b های \b ارزش \b بدی، \b و \b خوبی \b زیبایی، \b و \b زشتی \b دربارۀ \b توانند \b نمی \b تجربی \b علوم \b پژوهشگران \b. بدهند \b نظر"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.612,
+            "t": 629.47900390625,
+            "r": 434.88,
+            "b": 594.1800039062499,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "\b.» است \b خوشمزه \b مایعی \b شیر، \b که \b اند \b کرده \b ثابت \b شناسان \b زیست «\b است \b گفته \b تلویزیونی \b برنامۀ \b یک \b مجری نادرست؟ \b یا \b است \b درست \b گفته \b این",
+      "text": "\b.» است \b خوشمزه \b مایعی \b شیر، \b که \b اند \b کرده \b ثابت \b شناسان \b زیست «\b است \b گفته \b تلویزیونی \b برنامۀ \b یک \b مجری نادرست؟ \b یا \b است \b درست \b گفته \b این"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 495.752,
+            "t": 637.59900390625,
+            "r": 495.752,
+            "b": 619.12400390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ّ",
+      "text": "ّ"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 459.256,
+            "t": 629.51900390625,
+            "r": 504.376,
+            "b": 611.0440039062499,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "2 الیت فع",
+      "text": "2 الیت فع",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 437.68,
+            "t": 570.3870039062499,
+            "r": 524.424,
+            "b": 554.2220039062499,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "زیست شناسی نوین",
+      "text": "زیست شناسی نوین",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 181.998,
+            "t": 544.36800390625,
+            "r": 524.425,
+            "b": 509.06800390624994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "\b تبدیل \b امیدبخش \b و \b پویا \b توانا، \b مترقی، \b ای \b رشته \b به \b را \b آن \b که \b دارد \b هایی \b ویژگی \b شناسی \b زیست \b امروزه پردازیم. \b می \b ها \b ویژگی \b این \b به \b ادامه \b در \b. است \b کرده",
+      "text": "\b تبدیل \b امیدبخش \b و \b پویا \b توانا، \b مترقی، \b ای \b رشته \b به \b را \b آن \b که \b دارد \b هایی \b ویژگی \b شناسی \b زیست \b امروزه پردازیم. \b می \b ها \b ویژگی \b این \b به \b ادامه \b در \b. است \b کرده"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 510.885,
+            "t": 459.23100390624995,
+            "r": 510.885,
+            "b": 443.92500390624997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ِ",
+      "text": "ِ"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 181.984,
+            "t": 504.38100390624993,
+            "r": 524.398,
+            "b": 429.07500390624995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            475
+          ]
+        }
+      ],
+      "orig": "\b. است \b شده \b تشکیل \b زیادی \b بسیار \b قطعات \b از \b که \b بگیرید \b نظر \b در \b را \b) (پازلی \b جورچینی \b کل نگری: \b در \b یکی \b یکی \b را \b آن \b های \b قطعه \b اگر \b اما \b آید؛ \b نظر \b به \b معنی \b بی \b تنهایی \b به \b آن \b قطعات \b از \b یک \b هر \b است \b ممکن \b بزرگ، \b نمایی \b تدریج \b به \b جورچین، \b اجزای \b که \b کنیم \b می \b مشاهده \b دهیم، \b قرار \b همدیگر \b کنار \b در \b درست \b جای \b. دهند \b می \b نشان \b ما \b به \b آشنا \b شیئی \b از \b تصویری \b و \b کنند \b می \b پیدا \b دار \b معنی \b و \b ی ل ک",
+      "text": "\b. است \b شده \b تشکیل \b زیادی \b بسیار \b قطعات \b از \b که \b بگیرید \b نظر \b در \b را \b) (پازلی \b جورچینی \b کل نگری: \b در \b یکی \b یکی \b را \b آن \b های \b قطعه \b اگر \b اما \b آید؛ \b نظر \b به \b معنی \b بی \b تنهایی \b به \b آن \b قطعات \b از \b یک \b هر \b است \b ممکن \b بزرگ، \b نمایی \b تدریج \b به \b جورچین، \b اجزای \b که \b کنیم \b می \b مشاهده \b دهیم، \b قرار \b همدیگر \b کنار \b در \b درست \b جای \b. دهند \b می \b نشان \b ما \b به \b آشنا \b شیئی \b از \b تصویری \b و \b کنند \b می \b پیدا \b دار \b معنی \b و \b ی ل ک"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 354.123,
+            "t": 413.58700390624995,
+            "r": 354.123,
+            "b": 398.28100390624996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ّ",
+      "text": "ّ"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 518.283,
+            "t": 453.57400390624997,
+            "r": 518.283,
+            "b": 438.26800390624993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ّ",
+      "text": "ّ"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 521.509,
+            "t": 452.19700390624996,
+            "r": 521.509,
+            "b": 436.89100390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ُ",
+      "text": "ُ"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 181.944,
+            "t": 424.38700390624996,
+            "r": 524.423,
+            "b": 322.94600390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            601
+          ]
+        }
+      ],
+      "orig": "\b از \b بخشی \b اجزا، \b این \b از \b یک \b هر \b. است \b\b شده \b تشکیل \b بسیاری \b اجزای \b از \b نیز \b جانداران \b از \b یک \b هر \b پیکر \b را \b جانداران \b بنابراین، \b. کند \b می \b پیدا \b معنی \b ما \b برای \b ی کل \b نمای \b در \b که \b دهد \b می \b تشکیل \b را \b بزرگ \b سامانۀ \b یک \b توان \b نمی \b را \b سامانه \b های \b ویژگی \b علت \b همین \b به \b دارند؛ \b ارتباط \b باهم \b آن \b اجزای \b که \b دانند \b می سامانه \b نوعی \b تشکیل \b در \b اجزا \b خود \b مانند \b نیز \b اجزا \b بین \b ارتباط \b و \b داد \b توضیح \b آن \b سازندۀ \b اجزای \b مطالعۀ \b طریق \b از \b فقط است. \b آن \b اجزای \b مجموع \b از \b بیشتر \b چیزی \b سامانه، \b ل ِ ک \b و \b مؤثر \b جاندار،",
+      "text": "\b از \b بخشی \b اجزا، \b این \b از \b یک \b هر \b. است \b\b شده \b تشکیل \b بسیاری \b اجزای \b از \b نیز \b جانداران \b از \b یک \b هر \b پیکر \b را \b جانداران \b بنابراین، \b. کند \b می \b پیدا \b معنی \b ما \b برای \b ی کل \b نمای \b در \b که \b دهد \b می \b تشکیل \b را \b بزرگ \b سامانۀ \b یک \b توان \b نمی \b را \b سامانه \b های \b ویژگی \b علت \b همین \b به \b دارند؛ \b ارتباط \b باهم \b آن \b اجزای \b که \b دانند \b می سامانه \b نوعی \b تشکیل \b در \b اجزا \b خود \b مانند \b نیز \b اجزا \b بین \b ارتباط \b و \b داد \b توضیح \b آن \b سازندۀ \b اجزای \b مطالعۀ \b طریق \b از \b فقط است. \b آن \b اجزای \b مجموع \b از \b بیشتر \b چیزی \b سامانه، \b ل ِ ک \b و \b مؤثر \b جاندار،"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 331.861,
+            "t": 312.48100390624995,
+            "r": 331.861,
+            "b": 297.17500390624997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ً",
+      "text": "ً"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 471.976,
+            "t": 352.19700390624996,
+            "r": 471.976,
+            "b": 336.89100390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ُ",
+      "text": "ُ"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 181.982,
+            "t": 324.38700390624996,
+            "r": 524.439,
+            "b": 249.07500390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            366
+          ]
+        }
+      ],
+      "orig": "\b زنده \b های \b سامانه \b بیشتر \b چه \b هر \b شناخت \b برای \b امروزی \b شناسان \b زیست نگرش بین  رشته  ای: \b بر \b \b عاوه \b جانداران، \b های \b ژن \b بررسی \b برای \b مثا \b گیرند؛ \b می \b کمک \b نیز \b دیگر \b های \b رشته \b اطاعات \b از \b دیگر \b های \b رشته \b بسیاری \b و \b آمار \b ، \b رایانه \b علوم \b مهندسی، \b مفاهیم \b و \b فنون \b از \b شناختی، \b زیست \b اطاعات \b. کنند \b می \b استفاده \b هم",
+      "text": "\b زنده \b های \b سامانه \b بیشتر \b چه \b هر \b شناخت \b برای \b امروزی \b شناسان \b زیست نگرش بین  رشته  ای: \b بر \b \b عاوه \b جانداران، \b های \b ژن \b بررسی \b برای \b مثا \b گیرند؛ \b می \b کمک \b نیز \b دیگر \b های \b رشته \b اطاعات \b از \b دیگر \b های \b رشته \b بسیاری \b و \b آمار \b ، \b رایانه \b علوم \b مهندسی، \b مفاهیم \b و \b فنون \b از \b شناختی، \b زیست \b اطاعات \b. کنند \b می \b استفاده \b هم"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 182.025,
+            "t": 244.3870039062499,
+            "r": 524.423,
+            "b": 209.06200390624997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "\b. دارند \b و \b داشته \b شناسی \b زیست \b علم \b پیشرفت \b در \b مهمی \b نقش \b ها \b فناوری \b این \b فناوری  های نوین: پردازیم. \b می \b ها \b فناوری \b این \b از \b هایی \b نمونه \b به \b ادامه \b در",
+      "text": "\b. دارند \b و \b داشته \b شناسی \b زیست \b علم \b پیشرفت \b در \b مهمی \b نقش \b ها \b فناوری \b این \b فناوری  های نوین: پردازیم. \b می \b ها \b فناوری \b این \b از \b هایی \b نمونه \b به \b ادامه \b در"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 181.984,
+            "t": 204.37400390624998,
+            "r": 524.439,
+            "b": 129.07500390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            438
+          ]
+        }
+      ],
+      "orig": "\b تحلیل \b و \b بایگانی \b آوری، \b جمع \b به \b دیگر \b زمان \b هر \b از \b بیشتر \b امروزه \b: فناوری  های اطلاعاتی و ارتباطی \b اخیر \b سالۀ \b بیست \b تحولات \b و \b دستاوردها \b داریم؛ \b نیاز \b شناختی \b زیست \b های \b پژوهش \b از \b حاصل \b اطاعات \b ها \b فناوری \b این \b. است \b داشته \b بسیاری \b تأثیر \b شناسی، \b زیست \b پیشرفت \b در \b ارتباطات \b و \b اطاعات \b فناوری .)1 (شکل \b اند \b کرده \b فراهم \b ممکن \b زمان \b ترین \b کوتاه \b در \b را \b محاسبات \b انجام \b امکان",
+      "text": "\b تحلیل \b و \b بایگانی \b آوری، \b جمع \b به \b دیگر \b زمان \b هر \b از \b بیشتر \b امروزه \b: فناوری  های اطلاعاتی و ارتباطی \b اخیر \b سالۀ \b بیست \b تحولات \b و \b دستاوردها \b داریم؛ \b نیاز \b شناختی \b زیست \b های \b پژوهش \b از \b حاصل \b اطاعات \b ها \b فناوری \b این \b. است \b داشته \b بسیاری \b تأثیر \b شناسی، \b زیست \b پیشرفت \b در \b ارتباطات \b و \b اطاعات \b فناوری .)1 (شکل \b اند \b کرده \b فراهم \b ممکن \b زمان \b ترین \b کوتاه \b در \b را \b محاسبات \b انجام \b امکان"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 35.599,
+            "t": 44.2620039062499,
+            "r": 40.942,
+            "b": 29.523003906249983,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 116.75,
+            "t": 656.04800390625,
+            "r": 138.696,
+            "b": 639.4060039062499,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2 TB",
+      "text": "2 TB"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 40.265,
+            "t": 542.75300390625,
+            "r": 382.695,
+            "b": 407.47900390624994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            811
+          ]
+        }
+      ],
+      "orig": "\b ژنتیک \b مهندسی \b از \b استفاده \b با \b توانند \b می \b شناسان \b زیست \b که \b هاست \b مدت \b مهندسی  ژنتیک: \b که \b است \b آزمایشگاهی \b فنون \b و \b ها \b روش \b از \b ای \b مجموعه \b مهندسی ژنتیک \b. کنند \b ایجاد \b تغییر \b درجانداران \b جانوری \b که \b نداریم \b انتظار \b. رود \b می \b کار \b به \b جدید \b صفت \b ایجاد \b و \b جانداران \b دنای \b محتوای \b در \b تغییر \b منظور \b به \b. است \b داده \b رخ \b ژنتیک \b مهندسی \b از \b استفاده \b با \b کار \b این \b اما \b بسازد، \b عنکبوت \b تار \b پروتئین \b بتواند \b بز \b مانند \b شود \b می \b ساخته \b پروتئین \b این \b آنها \b شیر \b در \b که \b کنند \b تولید \b بزهایی \b ژن، \b انتقال \b با \b اند \b توانسته \b پژوهشگران \b طبیعت \b در \b ارزشمند \b مواد \b از \b عنکبوت \b تار \b. داد \b خواهد \b رخ \b صنعت \b در \b تحولی \b شدن \b تجاری \b صورت \b در \b که باشد. \b داشته \b متفاوت \b صنایع \b در \b وسیعی \b کاربردهای \b تواند \b می \b و \b است",
+      "text": "\b ژنتیک \b مهندسی \b از \b استفاده \b با \b توانند \b می \b شناسان \b زیست \b که \b هاست \b مدت \b مهندسی  ژنتیک: \b که \b است \b آزمایشگاهی \b فنون \b و \b ها \b روش \b از \b ای \b مجموعه \b مهندسی ژنتیک \b. کنند \b ایجاد \b تغییر \b درجانداران \b جانوری \b که \b نداریم \b انتظار \b. رود \b می \b کار \b به \b جدید \b صفت \b ایجاد \b و \b جانداران \b دنای \b محتوای \b در \b تغییر \b منظور \b به \b. است \b داده \b رخ \b ژنتیک \b مهندسی \b از \b استفاده \b با \b کار \b این \b اما \b بسازد، \b عنکبوت \b تار \b پروتئین \b بتواند \b بز \b مانند \b شود \b می \b ساخته \b پروتئین \b این \b آنها \b شیر \b در \b که \b کنند \b تولید \b بزهایی \b ژن، \b انتقال \b با \b اند \b توانسته \b پژوهشگران \b طبیعت \b در \b ارزشمند \b مواد \b از \b عنکبوت \b تار \b. داد \b خواهد \b رخ \b صنعت \b در \b تحولی \b شدن \b تجاری \b صورت \b در \b که باشد. \b داشته \b متفاوت \b صنایع \b در \b وسیعی \b کاربردهای \b تواند \b می \b و \b است"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 40.262,
+            "t": 402.79200390624993,
+            "r": 382.693,
+            "b": 347.45300390624993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            293
+          ]
+        }
+      ],
+      "orig": "\b زمینه \b ژنتیک، \b مهندسی \b در \b ویژه \b به \b شناسی، \b زیست \b علم \b سریع \b های \b پیشرفت \b اخلاق زیستی: \b پزشکی \b اطاعات \b نیز \b و \b ژنی \b اطاعات \b بودن \b محرمانه \b. است \b کرده \b فراهم \b جامعه \b در \b را \b هایی \b استفاده \b سوء هستند. \b زیستی \b اخاق \b های \b موضوع \b از \b جانوران \b حقوق \b و \b افراد",
+      "text": "\b زمینه \b ژنتیک، \b مهندسی \b در \b ویژه \b به \b شناسی، \b زیست \b علم \b سریع \b های \b پیشرفت \b اخلاق زیستی: \b پزشکی \b اطاعات \b نیز \b و \b ژنی \b اطاعات \b بودن \b محرمانه \b. است \b کرده \b فراهم \b جامعه \b در \b را \b هایی \b استفاده \b سوء هستند. \b زیستی \b اخاق \b های \b موضوع \b از \b جانوران \b حقوق \b و \b افراد"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 40.279,
+            "t": 342.76600390625,
+            "r": 382.72,
+            "b": 267.47900390624994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            418
+          ]
+        }
+      ],
+      "orig": "\b مثا \b ساحی \b چنین \b. است \b زیستی \b های \b ساح \b تولید \b شناسی، \b زیست \b علم \b از \b ها \b استفاده \b سوء \b از \b یکی \b با \b دارویی \b و \b غذایی \b های \b فراورده \b یا \b است \b مقاوم \b رایج \b داروهای \b به \b نسبت \b که \b باشد \b زایی \b بیماری \b عامل \b تواند \b می \b از \b هایی \b استفاده \b سوء \b چنین \b از \b جلوگیری \b برای \b جهانی \b قوانین \b وضع \b بنابراین \b. باشند \b افراد \b برای \b زیانبار \b عواقب است. \b ضروری \b شناسی \b زیست \b علم",
+      "text": "\b مثا \b ساحی \b چنین \b. است \b زیستی \b های \b ساح \b تولید \b شناسی، \b زیست \b علم \b از \b ها \b استفاده \b سوء \b از \b یکی \b با \b دارویی \b و \b غذایی \b های \b فراورده \b یا \b است \b مقاوم \b رایج \b داروهای \b به \b نسبت \b که \b باشد \b زایی \b بیماری \b عامل \b تواند \b می \b از \b هایی \b استفاده \b سوء \b چنین \b از \b جلوگیری \b برای \b جهانی \b قوانین \b وضع \b بنابراین \b. باشند \b افراد \b برای \b زیانبار \b عواقب است. \b ضروری \b شناسی \b زیست \b علم"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 245.519,
+            "t": 252.19300390624994,
+            "r": 382.691,
+            "b": 236.02800390624998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "زیست شناسی در خدمت انسان",
+      "text": "زیست شناسی در خدمت انسان",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 40.265,
+            "t": 226.17400390624994,
+            "r": 382.706,
+            "b": 150.8680039062499,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            463
+          ]
+        }
+      ],
+      "orig": "\b مسائل \b این \b حل \b به \b شناسی \b زیست \b. هستیم \b مواجه \b متفاوت \b های \b زمینه \b در \b فراوانی \b مسائل \b با \b امروزه داریم. \b مسائل \b این \b حل \b در \b شناسی \b زیست \b نقش \b بر \b مروری \b ادامه \b در \b بکند؟ \b تواند \b می \b کمکی \b چه \b از \b جهان \b در \b نفر \b میلیارد \b یک \b حدود \b اکنون \b \b هم \b که \b شود \b می \b گفته \b تأمین غذای سالم و کافی: \b انسانی \b افزایش \b به \b رو \b های \b جمعیت \b برای \b کافی \b و \b سالم \b غذای \b چگونه \b برند؛ \b می \b رنج \b سوء ِ تغذیه \b و \b گرسنگی",
+      "text": "\b مسائل \b این \b حل \b به \b شناسی \b زیست \b. هستیم \b مواجه \b متفاوت \b های \b زمینه \b در \b فراوانی \b مسائل \b با \b امروزه داریم. \b مسائل \b این \b حل \b در \b شناسی \b زیست \b نقش \b بر \b مروری \b ادامه \b در \b بکند؟ \b تواند \b می \b کمکی \b چه \b از \b جهان \b در \b نفر \b میلیارد \b یک \b حدود \b اکنون \b \b هم \b که \b شود \b می \b گفته \b تأمین غذای سالم و کافی: \b انسانی \b افزایش \b به \b رو \b های \b جمعیت \b برای \b کافی \b و \b سالم \b غذای \b چگونه \b برند؛ \b می \b رنج \b سوء ِ تغذیه \b و \b گرسنگی"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 335.402,
+            "t": 146.18100390625,
+            "r": 382.693,
+            "b": 130.87500390624996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "\b کنیم؟ \b فراهم",
+      "text": "\b کنیم؟ \b فراهم"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 40.292,
+            "t": 126.18700390624997,
+            "r": 382.706,
+            "b": 90.88800390624999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        }
+      ],
+      "orig": "\b شناخت \b پس \b آید؛ \b می \b دست \b به \b گیاهان \b از \b غیرمستقیم \b یا \b مستقیم \b طور \b به \b انسان \b غذای \b دانیم \b می \b. است \b بیشتر \b مغذی \b مواد \b با \b و \b بیشتر \b غذای \b تأمین \b های \b راه \b از \b یکی \b گیاهان \b بیشتر",
+      "text": "\b شناخت \b پس \b آید؛ \b می \b دست \b به \b گیاهان \b از \b غیرمستقیم \b یا \b مستقیم \b طور \b به \b انسان \b غذای \b دانیم \b می \b. است \b بیشتر \b مغذی \b مواد \b با \b و \b بیشتر \b غذای \b تأمین \b های \b راه \b از \b یکی \b گیاهان \b بیشتر"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 40.279,
+            "t": 91.14100390624992,
+            "r": 382.706,
+            "b": 50.90100390624991,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            232
+          ]
+        }
+      ],
+      "orig": "\b. است \b زیست \b محیط \b و \b گیاهان \b روابط \b شناخت \b انسان، \b غذای \b کیفیت \b و \b ّ یت کم \b افزایش \b های \b راه \b از \b نور \b رطوبت، \b دما، \b مانند \b غیرزنده \b عوامل \b شامل \b پیچیده، \b محیطی \b در \b دیگر \b جانداران \b همۀ \b مانند \b گیاهان",
+      "text": "\b. است \b زیست \b محیط \b و \b گیاهان \b روابط \b شناخت \b انسان، \b غذای \b کیفیت \b و \b ّ یت کم \b افزایش \b های \b راه \b از \b نور \b رطوبت، \b دما، \b مانند \b غیرزنده \b عوامل \b شامل \b پیچیده، \b محیطی \b در \b دیگر \b جانداران \b همۀ \b مانند \b گیاهان"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 43.627,
+            "t": 350.87900390625,
+            "r": 43.627,
+            "b": 335.57300390624994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ً",
+      "text": "ً"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 394.859,
+            "t": 705.95200390625,
+            "r": 510.301,
+            "b": 602.3470039062499,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            276
+          ]
+        }
+      ],
+      "orig": "5 \b حافظۀ \b انتقال \b: راست \b ــ 1 شکل \b ترین \b پیشرفته \b ام، \b بی \b آی \b شرکت \b مگابایتی \b ؛ 1956\b سال \b در \b جهان \b روز \b افزار \b سخت \b و \b ظرفیت \b اندازه، \b ازنظر \b ر ا \b حافظه \b این \b مقایسه \b امروزی \b های \b حافظه \b با \b قیمت \b ترابایتی \b2 \b حافظۀ \b یک \b: چپ \b. کنید امروزی",
+      "text": "5 \b حافظۀ \b انتقال \b: راست \b ــ 1 شکل \b ترین \b پیشرفته \b ام، \b بی \b آی \b شرکت \b مگابایتی \b ؛ 1956\b سال \b در \b جهان \b روز \b افزار \b سخت \b و \b ظرفیت \b اندازه، \b ازنظر \b ر ا \b حافظه \b این \b مقایسه \b امروزی \b های \b حافظه \b با \b قیمت \b ترابایتی \b2 \b حافظۀ \b یک \b: چپ \b. کنید امروزی"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 524.575,
+            "t": 44.2620039062499,
+            "r": 529.918,
+            "b": 29.523003906249983,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 54.689,
+            "t": 524.5350039062499,
+            "r": 170.081,
+            "b": 495.92900390624993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "\b هـای \b ساز گـان \b بــوم \b از \b یکی \b ــ 2 شکـل \b\b. است \b ارومیه \b دریاچۀ \b ایران، \b دیدۀ \b آسیب",
+      "text": "\b هـای \b ساز گـان \b بــوم \b از \b یکی \b ــ 2 شکـل \b\b. است \b ارومیه \b دریاچۀ \b ایران، \b دیدۀ \b آسیب"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 118.892,
+            "t": 339.16300390624997,
+            "r": 167.253,
+            "b": 324.73000390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "بیشتر بدانید",
+      "text": "بیشتر بدانید",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 115.91,
+            "t": 318.14400390624996,
+            "r": 167.253,
+            "b": 304.28800390624997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "دریاچه ارومیه",
+      "text": "دریاچه ارومیه",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 57.518,
+            "t": 303.14400390624996,
+            "r": 167.295,
+            "b": 61.70700390624995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            676
+          ]
+        }
+      ],
+      "orig": "\b دریاچۀ \b ترین \b بزرگ \b ارومیه \b دریاچه \b در \b1352\b سال \b در \b و \b است \b ایران \b داخلی \b ثبت \b به \b ایران \b ملی \b های \b پارک \b فهرست \b ارومیه \b دریاچۀ \b ملی \b پارک \b. است \b رسیده است. \b ایران \b طبیعی \b های \b زیستگاه \b از \b نشان \b ای \b ماهو اره \b تصاویر \b بررسی 1394\b سال \b تا \b دریاچه \b این \b که \b دهد \b می \b از \b ر ا \b خود \b مساحت \b از \b زیادی \b مقدار \b خشکسالی،حفر \b. است \b داده \b دست \b اطراف \b در \b کشاورزی \b های \b چاه \b حساب \b بی \b طبیعت، \b قوانین \b به \b توجهی \b بی \b آن، \b استفادۀ \b دریاچه، \b روی \b بزر گر اه \b احداث \b که \b هایی \b رودخانه \b های \b آب \b از \b غیرعلمی \b در \b سدسازی \b و \b ریزند \b می \b دریاچه \b این \b به \b خشکی \b این \b عوامل \b از \b رودها، \b این \b مسیر هستند.",
+      "text": "\b دریاچۀ \b ترین \b بزرگ \b ارومیه \b دریاچه \b در \b1352\b سال \b در \b و \b است \b ایران \b داخلی \b ثبت \b به \b ایران \b ملی \b های \b پارک \b فهرست \b ارومیه \b دریاچۀ \b ملی \b پارک \b. است \b رسیده است. \b ایران \b طبیعی \b های \b زیستگاه \b از \b نشان \b ای \b ماهو اره \b تصاویر \b بررسی 1394\b سال \b تا \b دریاچه \b این \b که \b دهد \b می \b از \b ر ا \b خود \b مساحت \b از \b زیادی \b مقدار \b خشکسالی،حفر \b. است \b داده \b دست \b اطراف \b در \b کشاورزی \b های \b چاه \b حساب \b بی \b طبیعت، \b قوانین \b به \b توجهی \b بی \b آن، \b استفادۀ \b دریاچه، \b روی \b بزر گر اه \b احداث \b که \b هایی \b رودخانه \b های \b آب \b از \b غیرعلمی \b در \b سدسازی \b و \b ریزند \b می \b دریاچه \b این \b به \b خشکی \b این \b عوامل \b از \b رودها، \b این \b مسیر هستند."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 181.998,
+            "t": 705.61300390625,
+            "r": 524.412,
+            "b": 650.32000390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            263
+          ]
+        }
+      ],
+      "orig": "\b. دهند \b می \b محصول \b و \b کنند \b می \b رشد \b آنها \b مانند \b و \b حشرات \b ها، \b قارچ \b ها، \b باکتری \b شامل \b زنده \b عوامل \b و \b محصول \b افزایش \b به \b گیاهان، \b و \b عوامل \b این \b بین \b زیانمند \b یا \b سودمند \b های \b تعامل \b بیشتر \b شناخت \b بنابراین، \b. کند \b می \b کمک",
+      "text": "\b. دهند \b می \b محصول \b و \b کنند \b می \b رشد \b آنها \b مانند \b و \b حشرات \b ها، \b قارچ \b ها، \b باکتری \b شامل \b زنده \b عوامل \b و \b محصول \b افزایش \b به \b گیاهان، \b و \b عوامل \b این \b بین \b زیانمند \b یا \b سودمند \b های \b تعامل \b بیشتر \b شناخت \b بنابراین، \b. کند \b می \b کمک"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 219.973,
+            "t": 634.80700390625,
+            "r": 219.973,
+            "b": 619.5010039062499,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ّ",
+      "text": "ّ"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 181.998,
+            "t": 645.63300390625,
+            "r": 524.447,
+            "b": 550.32000390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            622
+          ]
+        }
+      ],
+      "orig": "\b لذا \b و \b است \b زنده \b دنیای \b از \b جزئی \b انسان، \b حفاظت از بوم  ساز گان    ها، ترمیم و بازسازی آنها: \b و \b منابع \b ی طور کل \b به \b. دهد \b ادامه \b زندگی \b به \b تنهایی \b در \b و \b دیگر \b زندۀ \b موجودات \b از \b جدا \b و \b نیاز \b بی \b تواند \b نمی \b به \b سازگان \b بوم \b هر \b خدمات \b میزان \b. نامند \b می \b خدمات بوم  ساز گان \b بردارد، \b در \b سازگان \b بوم \b هر \b که \b ر ا \b سودهایی \b اقلیم، \b تغییر \b صورت \b در \b حتی \b که \b طوری \b به \b ها \b سازگان \b بوم \b کردن \b پایدار \b. دارد \b بستگی \b آن \b تولیدکنندگان \b میزان شود. \b می \b انسان \b زندگی \b کیفیت \b ارتقای \b موجب \b ندهد، \b روی \b آنها \b تولیدکنندگی \b مقدار \b در \b چندانی \b تغییر",
+      "text": "\b لذا \b و \b است \b زنده \b دنیای \b از \b جزئی \b انسان، \b حفاظت از بوم  ساز گان    ها، ترمیم و بازسازی آنها: \b و \b منابع \b ی طور کل \b به \b. دهد \b ادامه \b زندگی \b به \b تنهایی \b در \b و \b دیگر \b زندۀ \b موجودات \b از \b جدا \b و \b نیاز \b بی \b تواند \b نمی \b به \b سازگان \b بوم \b هر \b خدمات \b میزان \b. نامند \b می \b خدمات بوم  ساز گان \b بردارد، \b در \b سازگان \b بوم \b هر \b که \b ر ا \b سودهایی \b اقلیم، \b تغییر \b صورت \b در \b حتی \b که \b طوری \b به \b ها \b سازگان \b بوم \b کردن \b پایدار \b. دارد \b بستگی \b آن \b تولیدکنندگان \b میزان شود. \b می \b انسان \b زندگی \b کیفیت \b ارتقای \b موجب \b ندهد، \b روی \b آنها \b تولیدکنندگی \b مقدار \b در \b چندانی \b تغییر"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 181.998,
+            "t": 266.71100390624997,
+            "r": 524.425,
+            "b": 211.41800390624996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            343
+          ]
+        }
+      ],
+      "orig": "\b شناسان \b زیست \b. است \b گرفته \b قرار \b شدن \b خشک \b خطر \b در \b که \b است \b سال \b چندین \b ارومیه \b دریاچۀ \b ارائه \b آن \b احیای \b برای \b را \b لازم \b راهکارهای \b ها، \b سازگان \b بوم \b بازسازی \b علمی \b اصول \b از \b استفاده \b با \b کشورمان \b.)2 (شکل \b کنند \b جلوگیری \b طبیعی \b میراث \b این \b نابودی \b از \b آینده \b در \b که \b دارند \b امید \b و \b اند \b کرده",
+      "text": "\b شناسان \b زیست \b. است \b گرفته \b قرار \b شدن \b خشک \b خطر \b در \b که \b است \b سال \b چندین \b ارومیه \b دریاچۀ \b ارائه \b آن \b احیای \b برای \b را \b لازم \b راهکارهای \b ها، \b سازگان \b بوم \b بازسازی \b علمی \b اصول \b از \b استفاده \b با \b کشورمان \b.)2 (شکل \b کنند \b جلوگیری \b طبیعی \b میراث \b این \b نابودی \b از \b آینده \b در \b که \b دارند \b امید \b و \b اند \b کرده"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 182.011,
+            "t": 206.73100390624995,
+            "r": 524.439,
+            "b": 131.44400390624992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            465
+          ]
+        }
+      ],
+      "orig": "\b جهان \b امروز \b زیستی \b محیط \b مسئلۀ \b جنگل، \b زمین \b یا \b چوب \b از \b استفاده \b برای \b ها \b جنگل \b درختان \b قطع \b ایران \b های \b جنگل \b از \b ای \b گسترده \b بسیار \b مساحت \b اخیر، \b های \b سال \b در \b که \b اند \b داده \b نشان \b ها \b پژوهش \b. است \b زمین \b سیارۀ \b برای \b بدی \b بسیار \b پیامدهای \b ها \b جنگل \b رفتن \b بین \b از \b. اند \b شده \b درخت \b بی \b و \b تخریب \b جهان \b و اند. \b جمله \b آن \b از \b خاک \b فرسایش \b و \b زیستی \b تنوع \b کاهش \b سیل، \b هوا، \b و \b آب \b تغییر \b. دارد",
+      "text": "\b جهان \b امروز \b زیستی \b محیط \b مسئلۀ \b جنگل، \b زمین \b یا \b چوب \b از \b استفاده \b برای \b ها \b جنگل \b درختان \b قطع \b ایران \b های \b جنگل \b از \b ای \b گسترده \b بسیار \b مساحت \b اخیر، \b های \b سال \b در \b که \b اند \b داده \b نشان \b ها \b پژوهش \b. است \b زمین \b سیارۀ \b برای \b بدی \b بسیار \b پیامدهای \b ها \b جنگل \b رفتن \b بین \b از \b. اند \b شده \b درخت \b بی \b و \b تخریب \b جهان \b و اند. \b جمله \b آن \b از \b خاک \b فرسایش \b و \b زیستی \b تنوع \b کاهش \b سیل، \b هوا، \b و \b آب \b تغییر \b. دارد"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 336.897,
+            "t": 71.36200390624992,
+            "r": 336.897,
+            "b": 56.05600390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ّ",
+      "text": "ّ"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 181.998,
+            "t": 107.06100390625,
+            "r": 524.425,
+            "b": 51.41200390624999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            349
+          ]
+        }
+      ],
+      "orig": "\b بیشترین \b. است \b افزایش \b حال \b در \b انرژی \b به \b جهان \b مردم \b نیاز : تأمین انرژی  های تجدیدپذیر \b که \b دانیم \b می \b اما \b شود؛ \b می \b تأمین \b بنزین \b و \b گاز \b نفت، \b مانند \b فسیلی، \b منابع \b از \b انرژی \b به \b جهان \b کنونی \b نیاز \b زمین \b گرمایش \b باعث \b درنهایت \b و \b هوا \b آلودگی \b ، جو \b اکسید \b دی \b کربن \b افزایش \b موجب \b فسیلی \b های \b سوخت",
+      "text": "\b بیشترین \b. است \b افزایش \b حال \b در \b انرژی \b به \b جهان \b مردم \b نیاز : تأمین انرژی  های تجدیدپذیر \b که \b دانیم \b می \b اما \b شود؛ \b می \b تأمین \b بنزین \b و \b گاز \b نفت، \b مانند \b فسیلی، \b منابع \b از \b انرژی \b به \b جهان \b کنونی \b نیاز \b زمین \b گرمایش \b باعث \b درنهایت \b و \b هوا \b آلودگی \b ، جو \b اکسید \b دی \b کربن \b افزایش \b موجب \b فسیلی \b های \b سوخت"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 35.516,
+            "t": 44.2620039062499,
+            "r": 41.015,
+            "b": 29.523003906249983,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 40.265,
+            "t": 705.61300390625,
+            "r": 382.693,
+            "b": 650.32000390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            339
+          ]
+        }
+      ],
+      "orig": "\b به \b وابستگی \b کاهش \b برای \b انرژی \b تر \b پاک \b و \b مؤثرتر \b پایدار، \b منابع \b پی \b در \b باید \b انسان \b لحاظ، \b بدین \b. شوند \b می \b مانند \b زیستی \b های \b سوخت \b تولید \b افزایش \b و \b بهبود \b به \b توانند \b می \b شناسان \b زیست \b. باشد \b فسیلی \b های \b سوخت \b. کنند \b کمک \b آید، \b می \b دست \b به \b روغنی \b های \b دانه \b از \b که \b زیستی \b گازوئیل",
+      "text": "\b به \b وابستگی \b کاهش \b برای \b انرژی \b تر \b پاک \b و \b مؤثرتر \b پایدار، \b منابع \b پی \b در \b باید \b انسان \b لحاظ، \b بدین \b. شوند \b می \b مانند \b زیستی \b های \b سوخت \b تولید \b افزایش \b و \b بهبود \b به \b توانند \b می \b شناسان \b زیست \b. باشد \b فسیلی \b های \b سوخت \b. کنند \b کمک \b آید، \b می \b دست \b به \b روغنی \b های \b دانه \b از \b که \b زیستی \b گازوئیل"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 361.109,
+            "t": 625.25500390625,
+            "r": 361.109,
+            "b": 606.7800039062499,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ّ",
+      "text": "ّ"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 54.439,
+            "t": 617.1750039062499,
+            "r": 369.732,
+            "b": 519.10500390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            518
+          ]
+        }
+      ],
+      "orig": "\b پیکر \b تجزیۀ \b از \b و \b دارند \b زیستی \b منشأ \b نیز \b فسیلی \b های \b سوخت \b اگرچه \b هایی \b سوخت \b به \b زیستی \b سوخت \b امروزه \b اما \b اند؛ \b آمده \b وجود \b به \b جانداران \b و \b فسیلی \b های \b سوخت \b های \b زیان \b و \b مزایا \b. آیند \b می \b دست \b به \b امروزی \b جانداران \b از \b که \b گویند \b می \b مزارعی \b پسماند \b از \b استفاده \b امکان \b دربارۀ \b. کنید \b مقایسه \b هم \b با \b زیستی \b محیط \b دید \b از \b را \b زیستی دهید. \b ارائه \b کاس \b در \b و \b کنید \b آوری \b جمع \b اطاعاتی \b زیستی \b های \b سوخت \b تهیۀ \b در \b نیشکر \b مانند 3 الیت فع",
+      "text": "\b پیکر \b تجزیۀ \b از \b و \b دارند \b زیستی \b منشأ \b نیز \b فسیلی \b های \b سوخت \b اگرچه \b هایی \b سوخت \b به \b زیستی \b سوخت \b امروزه \b اما \b اند؛ \b آمده \b وجود \b به \b جانداران \b و \b فسیلی \b های \b سوخت \b های \b زیان \b و \b مزایا \b. آیند \b می \b دست \b به \b امروزی \b جانداران \b از \b که \b گویند \b می \b مزارعی \b پسماند \b از \b استفاده \b امکان \b دربارۀ \b. کنید \b مقایسه \b هم \b با \b زیستی \b محیط \b دید \b از \b را \b زیستی دهید. \b ارائه \b کاس \b در \b و \b کنید \b آوری \b جمع \b اطاعاتی \b زیستی \b های \b سوخت \b تهیۀ \b در \b نیشکر \b مانند 3 الیت فع"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 273.335,
+            "t": 414.45500390624994,
+            "r": 273.335,
+            "b": 399.14900390624996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ّ",
+      "text": "ّ"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 40.251,
+            "t": 469.39300390624993,
+            "r": 382.698,
+            "b": 394.10000390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            402
+          ]
+        }
+      ],
+      "orig": "\b حال \b در \b ها \b بیماری \b درمان \b و \b تشخیص \b برای \b روشی \b تازگی، \b به \b سلامت و درمان بیماری  ها: \b درمان \b و \b تشخیص \b برای \b شخصی \b پزشکی \b در \b پزشکان \b. دارد \b نام \b پزشکی شخصی که \b است \b گسترش \b دارد، \b وجود \b فرد \b هر \b) DNA (\b دنای \b در \b که \b اطاعاتی \b بررسی \b با \b بیمار، \b وضعیت \b بررسی \b بر \b عاوه \b ها \b بیماری .\b کنند \b می \b طراحی \b را \b فرد \b هر \b خاص \b دارویی \b و \b درمانی \b های \b روش",
+      "text": "\b حال \b در \b ها \b بیماری \b درمان \b و \b تشخیص \b برای \b روشی \b تازگی، \b به \b سلامت و درمان بیماری  ها: \b درمان \b و \b تشخیص \b برای \b شخصی \b پزشکی \b در \b پزشکان \b. دارد \b نام \b پزشکی شخصی که \b است \b گسترش \b دارد، \b وجود \b فرد \b هر \b) DNA (\b دنای \b در \b که \b اطاعاتی \b بررسی \b با \b بیمار، \b وضعیت \b بررسی \b بر \b عاوه \b ها \b بیماری .\b کنند \b می \b طراحی \b را \b فرد \b هر \b خاص \b دارویی \b و \b درمانی \b های \b روش"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 139.732,
+            "t": 362.37900390625,
+            "r": 139.732,
+            "b": 347.07300390624994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ّ",
+      "text": "ّ"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 273.834,
+            "t": 405.16700390624993,
+            "r": 273.834,
+            "b": 389.86100390624995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ِ",
+      "text": "ِ"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 54.453,
+            "t": 357.14100390625,
+            "r": 293.092,
+            "b": 321.84100390624997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "\b در \b شناسان \b زیست \b الیت فع \b های \b زمینه \b دربارۀ \b معتبر \b منابع \b به \b مراجعه \b با دهید. \b ارائه \b کاس \b در \b و \b آوری \b جمع \b اطاعاتی \b جهان \b و \b ایران",
+      "text": "\b در \b شناسان \b زیست \b الیت فع \b های \b زمینه \b دربارۀ \b معتبر \b منابع \b به \b مراجعه \b با دهید. \b ارائه \b کاس \b در \b و \b آوری \b جمع \b اطاعاتی \b جهان \b و \b ایران"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 355.157,
+            "t": 365.92700390625,
+            "r": 355.157,
+            "b": 347.45200390624996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ّ",
+      "text": "ّ"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 318.357,
+            "t": 357.84700390624994,
+            "r": 363.78,
+            "b": 339.37200390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "4 الیت فع",
+      "text": "4 الیت فع",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 331.476,
+            "t": 263.63400390625,
+            "r": 379.837,
+            "b": 249.20100390624998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "بیشتر بدانید",
+      "text": "بیشتر بدانید",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 305.295,
+            "t": 242.61500390624997,
+            "r": 379.821,
+            "b": 228.75900390624997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "پرهیز از پیش  داوری",
+      "text": "پرهیز از پیش  داوری",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 43.299,
+            "t": 227.61500390624997,
+            "r": 379.85,
+            "b": 139.01000390624995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            752
+          ]
+        }
+      ],
+      "orig": "\b مسلمان \b دانشمند \b هیثم \b ابن \b. دارد \b دیرینه \b تاریخی \b علمی، \b های \b نظریه \b درستی \b بررسی \b برای \b آزمایش \b و \b تجربه \b از \b استفاده \b انجام \b با \b ر ا \b آنها \b و \b دانست \b می \b علمی \b های \b نظریه \b پذیرش \b برای \b استدلال \b لازمه \b ر ا \b تجربی \b شواهد \b هجری، \b چهارم \b قرن \b تجربی \b شواهد \b از \b نتایج \b استخراج \b در \b محقق \b که \b بود \b باور \b این \b بر \b همچنین \b. داد \b می \b قرار \b بررسی \b مورد \b ابزار \b ساختن \b و \b آزمایش \b و \b داوری \b پیش \b از \b پرهیز \b انصاف، \b رعایت \b بر \b تحقیقات \b انجام \b و \b مطالعه \b در \b او \b. کند \b عمل \b احتیاط \b با \b باید \b عقلی، \b استدلال \b و \b از \b واقعیت \b بر \b مبتنی \b توصیفی \b آزمایش، \b و \b مشاهده \b انجام \b با \b باور \b همین \b براساس \b هیثم \b ابن \b. داشت \b تأکید \b جویی \b حقیقت داد. \b ارائه \b بینایی \b سازوکار",
+      "text": "\b مسلمان \b دانشمند \b هیثم \b ابن \b. دارد \b دیرینه \b تاریخی \b علمی، \b های \b نظریه \b درستی \b بررسی \b برای \b آزمایش \b و \b تجربه \b از \b استفاده \b انجام \b با \b ر ا \b آنها \b و \b دانست \b می \b علمی \b های \b نظریه \b پذیرش \b برای \b استدلال \b لازمه \b ر ا \b تجربی \b شواهد \b هجری، \b چهارم \b قرن \b تجربی \b شواهد \b از \b نتایج \b استخراج \b در \b محقق \b که \b بود \b باور \b این \b بر \b همچنین \b. داد \b می \b قرار \b بررسی \b مورد \b ابزار \b ساختن \b و \b آزمایش \b و \b داوری \b پیش \b از \b پرهیز \b انصاف، \b رعایت \b بر \b تحقیقات \b انجام \b و \b مطالعه \b در \b او \b. کند \b عمل \b احتیاط \b با \b باید \b عقلی، \b استدلال \b و \b از \b واقعیت \b بر \b مبتنی \b توصیفی \b آزمایش، \b و \b مشاهده \b انجام \b با \b باور \b همین \b براساس \b هیثم \b ابن \b. داشت \b تأکید \b جویی \b حقیقت داد. \b ارائه \b بینایی \b سازوکار"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 459.05,
+            "t": 705.83900390625,
+            "r": 507.411,
+            "b": 691.4060039062499,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "بیشتر بدانید",
+      "text": "بیشتر بدانید",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 404.775,
+            "t": 684.82000390625,
+            "r": 507.405,
+            "b": 655.96400390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "نانوفناوری در خدمت بینایی انسان",
+      "text": "نانوفناوری در خدمت بینایی انسان",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 443.307,
+            "t": 634.19200390625,
+            "r": 443.307,
+            "b": 620.58600390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ِ",
+      "text": "ِ"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 397.683,
+            "t": 654.82000390625,
+            "r": 507.46,
+            "b": 371.21400390624996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            821
+          ]
+        }
+      ],
+      "orig": "\b یکی \b چشم، \b شبکی ّ ۀ \b تحلیل \b بیماری \b سالان \b کهن \b نابینایی \b های \b علت \b از \b است \b ممکن \b که \b بیماری \b این \b در \b. است \b ظاهر \b افراد \b در \b بعد \b به \b سالگی \b65\b از \b در \b نور \b به \b حساس \b های \b یاخته \b شود، \b یا \b روند، \b می \b بین \b از \b تدریج \b به \b شبکیه \b\b. کنند \b کار \b درستی \b به \b توانند \b نمی \b شبکیۀ \b بیماران، \b این \b به \b کمک \b برای \b توان \b می \b. است \b شده \b ساخته \b مصنوعی \b های \b یاخته \b از \b که \b ر ا \b هایی \b عصب \b شبکیه \b در \b بینایی \b مسئول \b عصبی \b به \b روند \b می \b مغز \b به \b و \b شوند \b می \b خارج \b از \b ای \b مجموعه \b شامل \b هایی \b ریزتراشه \b میکروسکوپی \b الکتریکی \b های \b چشم \b به \b ر ا \b نور \b اثر \b توانند \b می \b که \b کرد \b متصل \b درنتیجه، \b کنند، \b تبدیل \b عصبی \b پیام \b توانند \b می \b هستند، \b نابینا \b که \b بیمارانی \b درشت \b خطوط \b و \b ببینند \b ر ا \b اشیا بخوانند. \b ر ا \b ها \b روزنامه",
+      "text": "\b یکی \b چشم، \b شبکی ّ ۀ \b تحلیل \b بیماری \b سالان \b کهن \b نابینایی \b های \b علت \b از \b است \b ممکن \b که \b بیماری \b این \b در \b. است \b ظاهر \b افراد \b در \b بعد \b به \b سالگی \b65\b از \b در \b نور \b به \b حساس \b های \b یاخته \b شود، \b یا \b روند، \b می \b بین \b از \b تدریج \b به \b شبکیه \b\b. کنند \b کار \b درستی \b به \b توانند \b نمی \b شبکیۀ \b بیماران، \b این \b به \b کمک \b برای \b توان \b می \b. است \b شده \b ساخته \b مصنوعی \b های \b یاخته \b از \b که \b ر ا \b هایی \b عصب \b شبکیه \b در \b بینایی \b مسئول \b عصبی \b به \b روند \b می \b مغز \b به \b و \b شوند \b می \b خارج \b از \b ای \b مجموعه \b شامل \b هایی \b ریزتراشه \b میکروسکوپی \b الکتریکی \b های \b چشم \b به \b ر ا \b نور \b اثر \b توانند \b می \b که \b کرد \b متصل \b درنتیجه، \b کنند، \b تبدیل \b عصبی \b پیام \b توانند \b می \b هستند، \b نابینا \b که \b بیمارانی \b درشت \b خطوط \b و \b ببینند \b ر ا \b اشیا بخوانند. \b ر ا \b ها \b روزنامه"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 464.649,
+            "t": 338.18600390624994,
+            "r": 510.235,
+            "b": 323.75200390624997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "واژه شناسی",
+      "text": "واژه شناسی",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 418.731,
+            "t": 317.16600390624995,
+            "r": 510.377,
+            "b": 303.31000390624996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "/ دی. ا ِ ن. ا ِ ی) DNA ( دنا",
+      "text": "/ دی. ا ِ ن. ا ِ ی) DNA ( دنا",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 394.863,
+            "t": 302.16600390624995,
+            "r": 510.267,
+            "b": 198.56100390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            315
+          ]
+        }
+      ],
+      "orig": "\b نام \b با \b اسید \b ریبونوکلئیک \b اکسی \b دئو \b ا ِی \b . ا ِ ن \b . دی \b تلفظ \b و \b DNA \b اختصاری \b زبان \b فرهنگستان \b. شود \b می \b شناخته \b تک \b تک \b حروف \b جای \b به \b فارسی \b ادب \b و \b معرفی \b ر ا \b» دنا «\b کلمه \b) (آ \b و \b) (ن \b و \b) (د \b و \b تر \b سهل \b ترکیب \b و \b تلفظ \b در \b که \b کند \b می \b. است \b تر \b آوا \b خوش",
+      "text": "\b نام \b با \b اسید \b ریبونوکلئیک \b اکسی \b دئو \b ا ِی \b . ا ِ ن \b . دی \b تلفظ \b و \b DNA \b اختصاری \b زبان \b فرهنگستان \b. شود \b می \b شناخته \b تک \b تک \b حروف \b جای \b به \b فارسی \b ادب \b و \b معرفی \b ر ا \b» دنا «\b کلمه \b) (آ \b و \b) (ن \b و \b) (د \b و \b تر \b سهل \b ترکیب \b و \b تلفظ \b در \b که \b کند \b می \b. است \b تر \b آوا \b خوش"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 524.575,
+            "t": 44.2620039062499,
+            "r": 529.918,
+            "b": 29.523003906249983,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 60.41498565673828,
+            "t": 704.6302146911621,
+            "r": 521.0169677734375,
+            "b": 360.362548828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 479.50616455078125,
+            "t": 118.9686279296875,
+            "r": 525.8515625,
+            "b": 56.05230712890625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 395.9712829589844,
+            "t": 367.6336364746094,
+            "r": 501.1827697753906,
+            "b": 284.8990478515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 448.4597473144531,
+            "t": 641.3413238525391,
+            "r": 523.455078125,
+            "b": 599.9788055419922,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/47"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 63.39805221557617,
+            "t": 706.0763282775879,
+            "r": 197.6829833984375,
+            "b": 558.4242858886719,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 225.8531494140625,
+            "t": 710.008544921875,
+            "r": 383.882080078125,
+            "b": 559.4413604736328,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 183.3197479248047,
+            "t": 528.3526763916016,
+            "r": 525.8993530273438,
+            "b": 290.9087219238281,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/80"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 307.1478576660156,
+            "t": 369.5184631347656,
+            "r": 381.9088439941406,
+            "b": 329.9886474609375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 566.9290161132812,
+        "height": 765.35400390625
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 566.9290161132812,
+        "height": 765.35400390625
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 566.9290161132812,
+        "height": 765.35400390625
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 566.9290161132812,
+        "height": 765.35400390625
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 566.9290161132812,
+        "height": 765.35400390625
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 566.9290161132812,
+        "height": 765.35400390625
+      },
+      "page_no": 6
+    }
+  }
+}
